@@ -1,7 +1,7 @@
 ### Hi 👋, I'm MohammedAli
 
-Connect with me:
-https://www.youtube.com/c/TheTechDesigner
+### Connect with me:
+<!-- https://www.youtube.com/c/TheTechDesigner -->
 
 
 <!--
